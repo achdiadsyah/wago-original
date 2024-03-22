@@ -1,0 +1,6 @@
+{
+    "apps" : [{
+        "name"        : "WAGO",
+        "script"      : "./wuzapi -port 2020"
+    }]
+}
